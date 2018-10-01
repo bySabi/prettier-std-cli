@@ -26,7 +26,7 @@ Ex: package.json
 }
 ```
 
-### If you don't like `semicolons` use **semistandard** version
+### If you prefer `semicolons` use **semistandard** version
 * [prettier-semi-cli](https://github.com/bySabi/prettier-semi-cli)
 
 ## Contributing
